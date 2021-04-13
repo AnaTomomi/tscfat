@@ -71,7 +71,7 @@ Pipenv can be installed by using pip install::
 	
 	pip install pipenv
 	
-MAke sure the current working directory is the tscfat root folder and activate the virtual environment::
+Make sure the current working directory is the tscfat root folder and activate the virtual environment::
 
 	pipenv install
 	
